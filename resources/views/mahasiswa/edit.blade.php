@@ -27,6 +27,7 @@
             <textarea class="form-control" name="alamat" rows="10">{{$mahasiswa->alamat}}</textarea><br>
         </div>
         <input type="submit" name="submit" class="btn btn-info" value="Update">
+        <a href="http://127.0.0.1:8000/mahasiswa" class="btn btn-secondary">Back</a>
     
     </form>
 </div>

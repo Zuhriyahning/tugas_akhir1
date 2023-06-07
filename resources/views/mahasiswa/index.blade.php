@@ -26,6 +26,7 @@
                     @csrf
                     @method('delete')
                     <input class="btn btn-danger" type="submit" value="Delete">
+                    <a href="http://127.0.0.1:8000/home" class="btn btn-secondary">Back</a>
                 </form>
             </div>
         </td>
